@@ -8,3 +8,5 @@ def divide(x,y):
 pass
 def square(x,y):
 pass
+def fact(x,y)
+pass
